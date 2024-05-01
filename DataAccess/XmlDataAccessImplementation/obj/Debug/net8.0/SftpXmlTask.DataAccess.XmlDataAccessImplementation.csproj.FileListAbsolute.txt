@@ -1,0 +1,17 @@
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\XmlDataAccessImplementation\bin\Debug\net8.0\SftpXmlTask.DataAccess.XmlDataAccessImplementation.deps.json
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\XmlDataAccessImplementation\bin\Debug\net8.0\SftpXmlTask.DataAccess.XmlDataAccessImplementation.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\XmlDataAccessImplementation\bin\Debug\net8.0\SftpXmlTask.DataAccess.XmlDataAccessImplementation.pdb
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\XmlDataAccessImplementation\bin\Debug\net8.0\SftpXmlTask.DataAccess.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\XmlDataAccessImplementation\bin\Debug\net8.0\SftpXmlTask.DataAccess.pdb
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\XmlDataAccessImplementation\obj\Debug\net8.0\SftpXmlTask.DataAccess.XmlDataAccessImplementation.csproj.AssemblyReference.cache
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\XmlDataAccessImplementation\obj\Debug\net8.0\SftpXmlTask.DataAccess.XmlDataAccessImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\XmlDataAccessImplementation\obj\Debug\net8.0\SftpXmlTask.DataAccess.XmlDataAccessImplementation.AssemblyInfoInputs.cache
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\XmlDataAccessImplementation\obj\Debug\net8.0\SftpXmlTask.DataAccess.XmlDataAccessImplementation.AssemblyInfo.cs
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\XmlDataAccessImplementation\obj\Debug\net8.0\SftpXmlTask.DataAccess.XmlDataAccessImplementation.csproj.CoreCompileInputs.cache
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\XmlDataAccessImplementation\obj\Debug\net8.0\SftpXmlT.C8AE0356.Up2Date
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\XmlDataAccessImplementation\obj\Debug\net8.0\SftpXmlTask.DataAccess.XmlDataAccessImplementation.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\XmlDataAccessImplementation\obj\Debug\net8.0\refint\SftpXmlTask.DataAccess.XmlDataAccessImplementation.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\XmlDataAccessImplementation\obj\Debug\net8.0\SftpXmlTask.DataAccess.XmlDataAccessImplementation.pdb
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\XmlDataAccessImplementation\obj\Debug\net8.0\ref\SftpXmlTask.DataAccess.XmlDataAccessImplementation.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\XmlDataAccessImplementation\bin\Debug\net8.0\SftpXmlTask.DTO.Models.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\XmlDataAccessImplementation\bin\Debug\net8.0\SftpXmlTask.DTO.Models.pdb

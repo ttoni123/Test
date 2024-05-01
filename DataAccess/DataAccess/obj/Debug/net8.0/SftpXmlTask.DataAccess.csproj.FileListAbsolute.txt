@@ -1,0 +1,15 @@
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\DataAccess\bin\Debug\net8.0\SftpXmlTask.DataAccess.deps.json
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\DataAccess\bin\Debug\net8.0\SftpXmlTask.DataAccess.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\DataAccess\bin\Debug\net8.0\SftpXmlTask.DataAccess.pdb
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\DataAccess\obj\Debug\net8.0\SftpXmlTask.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\DataAccess\obj\Debug\net8.0\SftpXmlTask.DataAccess.AssemblyInfoInputs.cache
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\DataAccess\obj\Debug\net8.0\SftpXmlTask.DataAccess.AssemblyInfo.cs
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\DataAccess\obj\Debug\net8.0\SftpXmlTask.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\DataAccess\obj\Debug\net8.0\SftpXmlTask.DataAccess.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\DataAccess\obj\Debug\net8.0\refint\SftpXmlTask.DataAccess.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\DataAccess\obj\Debug\net8.0\SftpXmlTask.DataAccess.pdb
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\DataAccess\obj\Debug\net8.0\ref\SftpXmlTask.DataAccess.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\DataAccess\bin\Debug\net8.0\SftpXmlTask.DTO.Models.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\DataAccess\bin\Debug\net8.0\SftpXmlTask.DTO.Models.pdb
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\DataAccess\obj\Debug\net8.0\SftpXmlTask.DataAccess.csproj.AssemblyReference.cache
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\DataAccess\obj\Debug\net8.0\SftpXmlT.79381B9F.Up2Date

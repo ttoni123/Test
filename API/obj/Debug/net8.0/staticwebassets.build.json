@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "77bVBYhY1Fu4zZ4K4CyEM0GBi7NKZC39DPPtdgaP4gY=",
+  "Source": "SftpXmlTask.Api.OrderProcessing",
+  "BasePath": "_content/SftpXmlTask.Api.OrderProcessing",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

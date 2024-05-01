@@ -1,0 +1,15 @@
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\External\SftpService\bin\Debug\net8.0\SftpXmlTask.SftpService.deps.json
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\External\SftpService\bin\Debug\net8.0\SftpXmlTask.SftpService.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\External\SftpService\bin\Debug\net8.0\SftpXmlTask.SftpService.pdb
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\External\SftpService\bin\Debug\net8.0\SftpXmlTask.DTO.Models.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\External\SftpService\bin\Debug\net8.0\SftpXmlTask.DTO.Models.pdb
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\External\SftpService\obj\Debug\net8.0\SftpXmlTask.SftpService.csproj.AssemblyReference.cache
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\External\SftpService\obj\Debug\net8.0\SftpXmlTask.SftpService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\External\SftpService\obj\Debug\net8.0\SftpXmlTask.SftpService.AssemblyInfoInputs.cache
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\External\SftpService\obj\Debug\net8.0\SftpXmlTask.SftpService.AssemblyInfo.cs
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\External\SftpService\obj\Debug\net8.0\SftpXmlTask.SftpService.csproj.CoreCompileInputs.cache
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\External\SftpService\obj\Debug\net8.0\SftpXmlT.0341AD95.Up2Date
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\External\SftpService\obj\Debug\net8.0\SftpXmlTask.SftpService.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\External\SftpService\obj\Debug\net8.0\refint\SftpXmlTask.SftpService.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\External\SftpService\obj\Debug\net8.0\SftpXmlTask.SftpService.pdb
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\External\SftpService\obj\Debug\net8.0\ref\SftpXmlTask.SftpService.dll

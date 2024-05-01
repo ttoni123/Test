@@ -1,0 +1,482 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\API\\SftpXmlTask.Api.OrderProcessing.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\API\\SftpXmlTask.Api.OrderProcessing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\API\\SftpXmlTask.Api.OrderProcessing.csproj",
+        "projectName": "SftpXmlTask.Api.OrderProcessing",
+        "projectPath": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\API\\SftpXmlTask.Api.OrderProcessing.csproj",
+        "packagesPath": "C:\\Users\\tobr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tobr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\DataAccess\\XmlDataAccessImplementation\\SftpXmlTask.DataAccess.XmlDataAccessImplementation.csproj": {
+                "projectPath": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\DataAccess\\XmlDataAccessImplementation\\SftpXmlTask.DataAccess.XmlDataAccessImplementation.csproj"
+              },
+              "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\Service\\External\\SftpService\\SftpXmlTask.SftpService.csproj": {
+                "projectPath": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\Service\\External\\SftpService\\SftpXmlTask.SftpService.csproj"
+              },
+              "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\Service\\Service\\SftpXmlTask.Service.csproj": {
+                "projectPath": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\Service\\Service\\SftpXmlTask.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Serilog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\DataAccess\\DataAccess\\SftpXmlTask.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\DataAccess\\DataAccess\\SftpXmlTask.DataAccess.csproj",
+        "projectName": "SftpXmlTask.DataAccess",
+        "projectPath": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\DataAccess\\DataAccess\\SftpXmlTask.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\tobr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\DataAccess\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tobr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\Models\\SftpXmlTask.DTO.Models\\SftpXmlTask.DTO.Models.csproj": {
+                "projectPath": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\Models\\SftpXmlTask.DTO.Models\\SftpXmlTask.DTO.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\DataAccess\\XmlDataAccessImplementation\\SftpXmlTask.DataAccess.XmlDataAccessImplementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\DataAccess\\XmlDataAccessImplementation\\SftpXmlTask.DataAccess.XmlDataAccessImplementation.csproj",
+        "projectName": "SftpXmlTask.DataAccess.XmlDataAccessImplementation",
+        "projectPath": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\DataAccess\\XmlDataAccessImplementation\\SftpXmlTask.DataAccess.XmlDataAccessImplementation.csproj",
+        "packagesPath": "C:\\Users\\tobr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\DataAccess\\XmlDataAccessImplementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tobr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\DataAccess\\DataAccess\\SftpXmlTask.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\DataAccess\\DataAccess\\SftpXmlTask.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\Models\\SftpXmlTask.DTO.Models\\SftpXmlTask.DTO.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\Models\\SftpXmlTask.DTO.Models\\SftpXmlTask.DTO.Models.csproj",
+        "projectName": "SftpXmlTask.DTO.Models",
+        "projectPath": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\Models\\SftpXmlTask.DTO.Models\\SftpXmlTask.DTO.Models.csproj",
+        "packagesPath": "C:\\Users\\tobr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\Models\\SftpXmlTask.DTO.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tobr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\Service\\External\\SftpService\\SftpXmlTask.SftpService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\Service\\External\\SftpService\\SftpXmlTask.SftpService.csproj",
+        "projectName": "SftpXmlTask.SftpService",
+        "projectPath": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\Service\\External\\SftpService\\SftpXmlTask.SftpService.csproj",
+        "packagesPath": "C:\\Users\\tobr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\Service\\External\\SftpService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tobr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\Models\\SftpXmlTask.DTO.Models\\SftpXmlTask.DTO.Models.csproj": {
+                "projectPath": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\Models\\SftpXmlTask.DTO.Models\\SftpXmlTask.DTO.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "SSH.NET": {
+              "target": "Package",
+              "version": "[2024.0.0, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\Service\\Service\\SftpXmlTask.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\Service\\Service\\SftpXmlTask.Service.csproj",
+        "projectName": "SftpXmlTask.Service",
+        "projectPath": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\Service\\Service\\SftpXmlTask.Service.csproj",
+        "packagesPath": "C:\\Users\\tobr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\Service\\Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tobr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\DataAccess\\DataAccess\\SftpXmlTask.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\DataAccess\\DataAccess\\SftpXmlTask.DataAccess.csproj"
+              },
+              "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\Models\\SftpXmlTask.DTO.Models\\SftpXmlTask.DTO.Models.csproj": {
+                "projectPath": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\Models\\SftpXmlTask.DTO.Models\\SftpXmlTask.DTO.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Models\SftpXmlTask.DTO.Models\bin\Debug\net8.0\SftpXmlTask.DTO.Models.deps.json
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Models\SftpXmlTask.DTO.Models\bin\Debug\net8.0\SftpXmlTask.DTO.Models.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Models\SftpXmlTask.DTO.Models\bin\Debug\net8.0\SftpXmlTask.DTO.Models.pdb
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Models\SftpXmlTask.DTO.Models\obj\Debug\net8.0\SftpXmlTask.DTO.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Models\SftpXmlTask.DTO.Models\obj\Debug\net8.0\SftpXmlTask.DTO.Models.AssemblyInfoInputs.cache
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Models\SftpXmlTask.DTO.Models\obj\Debug\net8.0\SftpXmlTask.DTO.Models.AssemblyInfo.cs
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Models\SftpXmlTask.DTO.Models\obj\Debug\net8.0\SftpXmlTask.DTO.Models.csproj.CoreCompileInputs.cache
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Models\SftpXmlTask.DTO.Models\obj\Debug\net8.0\SftpXmlTask.DTO.Models.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Models\SftpXmlTask.DTO.Models\obj\Debug\net8.0\refint\SftpXmlTask.DTO.Models.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Models\SftpXmlTask.DTO.Models\obj\Debug\net8.0\SftpXmlTask.DTO.Models.pdb
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Models\SftpXmlTask.DTO.Models\obj\Debug\net8.0\ref\SftpXmlTask.DTO.Models.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Models\SftpXmlTask.DTO.Models\obj\Debug\net8.0\SftpXmlTask.DTO.Models.csproj.AssemblyReference.cache

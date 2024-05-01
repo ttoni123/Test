@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "YTKo7o5E/pe62IoTDU3tstF4WE8byFWy9zeCwnqm1sEMSpy3HRQae0b2wv8QGpaNYuL/kFpp0n2mfGGu5FdXfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\DataAccess\\DataAccess\\SftpXmlTask.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tobr\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\tobr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\tobr\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\tobr\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\tobr\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

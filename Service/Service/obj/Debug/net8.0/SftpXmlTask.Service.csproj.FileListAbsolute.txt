@@ -1,0 +1,17 @@
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\Service\bin\Debug\net8.0\SftpXmlTask.Service.deps.json
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\Service\bin\Debug\net8.0\SftpXmlTask.Service.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\Service\bin\Debug\net8.0\SftpXmlTask.Service.pdb
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\Service\bin\Debug\net8.0\SftpXmlTask.DataAccess.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\Service\bin\Debug\net8.0\SftpXmlTask.DataAccess.pdb
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\Service\obj\Debug\net8.0\SftpXmlTask.Service.csproj.AssemblyReference.cache
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\Service\obj\Debug\net8.0\SftpXmlTask.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\Service\obj\Debug\net8.0\SftpXmlTask.Service.AssemblyInfoInputs.cache
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\Service\obj\Debug\net8.0\SftpXmlTask.Service.AssemblyInfo.cs
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\Service\obj\Debug\net8.0\SftpXmlTask.Service.csproj.CoreCompileInputs.cache
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\Service\obj\Debug\net8.0\SftpXmlT.3A076540.Up2Date
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\Service\obj\Debug\net8.0\SftpXmlTask.Service.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\Service\obj\Debug\net8.0\refint\SftpXmlTask.Service.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\Service\obj\Debug\net8.0\SftpXmlTask.Service.pdb
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\Service\obj\Debug\net8.0\ref\SftpXmlTask.Service.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\Service\bin\Debug\net8.0\SftpXmlTask.DTO.Models.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\Service\bin\Debug\net8.0\SftpXmlTask.DTO.Models.pdb
