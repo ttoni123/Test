@@ -19,11 +19,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SftpXmlTask.DataAccess.XmlD
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "External", "External", "{E73218AA-102B-4C88-826E-516607416BD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SftpXmlTask.SftpService", "Service\External\SftpService\SftpXmlTask.SftpService.csproj", "{852E0286-66C5-438B-9478-2CCE1D3E2F81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SftpXmlTask.SftpService", "Service\External\SftpService\SftpXmlTask.SftpService.csproj", "{852E0286-66C5-438B-9478-2CCE1D3E2F81}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DTO", "DTO", "{FB178BE7-FE31-4D67-80A7-7B5E540D0F63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SftpXmlTask.DTO.Models", "Models\SftpXmlTask.DTO.Models\SftpXmlTask.DTO.Models.csproj", "{660A6417-548A-4411-90D5-39BDE0A986F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SftpXmlTask.DTO.Models", "Models\SftpXmlTask.DTO.Models\SftpXmlTask.DTO.Models.csproj", "{660A6417-548A-4411-90D5-39BDE0A986F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DatabaseProject", "DatabaseProject", "{52374EF3-A71D-4F27-B765-174636539A53}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database2", "Database2\Database2.sqlproj", "{AA26DE13-6085-4F78-8AFE-9C428420037E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +59,12 @@ Global
 		{660A6417-548A-4411-90D5-39BDE0A986F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{660A6417-548A-4411-90D5-39BDE0A986F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{660A6417-548A-4411-90D5-39BDE0A986F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA26DE13-6085-4F78-8AFE-9C428420037E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA26DE13-6085-4F78-8AFE-9C428420037E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA26DE13-6085-4F78-8AFE-9C428420037E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AA26DE13-6085-4F78-8AFE-9C428420037E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA26DE13-6085-4F78-8AFE-9C428420037E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA26DE13-6085-4F78-8AFE-9C428420037E}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,6 +77,7 @@ Global
 		{E73218AA-102B-4C88-826E-516607416BD0} = {22639AFF-8D72-4969-94CA-C768E50EE1FC}
 		{852E0286-66C5-438B-9478-2CCE1D3E2F81} = {E73218AA-102B-4C88-826E-516607416BD0}
 		{660A6417-548A-4411-90D5-39BDE0A986F9} = {FB178BE7-FE31-4D67-80A7-7B5E540D0F63}
+		{AA26DE13-6085-4F78-8AFE-9C428420037E} = {52374EF3-A71D-4F27-B765-174636539A53}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E9EDBC8A-9833-414A-844B-FAB899EF04C9}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SftpXmlTask.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+191ee754d52a4786c0690006051fce56e3436991")]
 [assembly: System.Reflection.AssemblyProductAttribute("SftpXmlTask.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SftpXmlTask.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
