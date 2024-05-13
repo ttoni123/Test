@@ -86,3 +86,4 @@ C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\API\obj\Debug\ne
 C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\API\obj\Debug\net8.0\SftpXmlTask.Api.OrderProcessing.genruntimeconfig.cache
 C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\API\obj\Debug\net8.0\ref\SftpXmlTask.Api.OrderProcessing.dll
 C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\API\obj\Debug\net8.0\SftpXmlTask.Api.OrderProcessing.sourcelink.json

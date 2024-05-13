@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SftpXmlTask.DTO.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+191ee754d52a4786c0690006051fce56e3436991")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a50d05c486954e0affc7079907c1f415e170e05d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SftpXmlTask.DTO.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SftpXmlTask.DTO.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

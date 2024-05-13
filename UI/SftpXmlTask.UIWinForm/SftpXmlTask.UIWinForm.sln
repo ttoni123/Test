@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SftpXmlTask.UIWinForm", "SftpXmlTask.UIWinForm.csproj", "{7BB3489A-DC38-43CD-A26B-6A904373A5F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{DF87CBAF-1DCA-4FD1-A562-37F155640898}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SftpXmlTask.Client", "Client\SftpXmlTask.Client\SftpXmlTask.Client.csproj", "{7509D263-1D4C-4E43-BA0F-5F3ED9298314}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{65D52D21-816A-41BB-893A-43FC9179CFE4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SftpXmlTask.DTO.Models", "..\..\Models\SftpXmlTask.DTO.Models\SftpXmlTask.DTO.Models.csproj", "{4F09914F-89C0-49EE-A81A-CDBF5299C5C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BB3489A-DC38-43CD-A26B-6A904373A5F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB3489A-DC38-43CD-A26B-6A904373A5F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB3489A-DC38-43CD-A26B-6A904373A5F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB3489A-DC38-43CD-A26B-6A904373A5F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7509D263-1D4C-4E43-BA0F-5F3ED9298314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7509D263-1D4C-4E43-BA0F-5F3ED9298314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7509D263-1D4C-4E43-BA0F-5F3ED9298314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7509D263-1D4C-4E43-BA0F-5F3ED9298314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F09914F-89C0-49EE-A81A-CDBF5299C5C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F09914F-89C0-49EE-A81A-CDBF5299C5C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F09914F-89C0-49EE-A81A-CDBF5299C5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F09914F-89C0-49EE-A81A-CDBF5299C5C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7509D263-1D4C-4E43-BA0F-5F3ED9298314} = {DF87CBAF-1DCA-4FD1-A562-37F155640898}
+		{4F09914F-89C0-49EE-A81A-CDBF5299C5C1} = {65D52D21-816A-41BB-893A-43FC9179CFE4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13F63922-8C28-4F1F-B311-76BC52983C56}
+	EndGlobalSection
+EndGlobal

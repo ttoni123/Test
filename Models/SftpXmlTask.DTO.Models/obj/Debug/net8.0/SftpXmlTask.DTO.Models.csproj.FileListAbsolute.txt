@@ -10,3 +10,4 @@ C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Models\SftpXmlTa
 C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Models\SftpXmlTask.DTO.Models\obj\Debug\net8.0\SftpXmlTask.DTO.Models.pdb
 C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Models\SftpXmlTask.DTO.Models\obj\Debug\net8.0\ref\SftpXmlTask.DTO.Models.dll
 C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Models\SftpXmlTask.DTO.Models\obj\Debug\net8.0\SftpXmlTask.DTO.Models.csproj.AssemblyReference.cache
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Models\SftpXmlTask.DTO.Models\obj\Debug\net8.0\SftpXmlTask.DTO.Models.sourcelink.json

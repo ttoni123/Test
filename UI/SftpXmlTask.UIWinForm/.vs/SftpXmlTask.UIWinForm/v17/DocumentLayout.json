@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\UI\\SftpXmlTask.UIWinForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB3489A-DC38-43CD-A26B-6A904373A5F0}|SftpXmlTask.UIWinForm.csproj|c:\\users\\tobr\\desktop\\new folder (2)\\testsolution\\sftp-xml-task\\ui\\sftpxmltask.uiwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB3489A-DC38-43CD-A26B-6A904373A5F0}|SftpXmlTask.UIWinForm.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB3489A-DC38-43CD-A26B-6A904373A5F0}|SftpXmlTask.UIWinForm.csproj|c:\\users\\tobr\\desktop\\new folder (2)\\testsolution\\sftp-xml-task\\ui\\sftpxmltask.uiwinform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB3489A-DC38-43CD-A26B-6A904373A5F0}|SftpXmlTask.UIWinForm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB3489A-DC38-43CD-A26B-6A904373A5F0}|SftpXmlTask.UIWinForm.csproj|c:\\users\\tobr\\desktop\\new folder (2)\\testsolution\\sftp-xml-task\\ui\\sftpxmltask.uiwinform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB3489A-DC38-43CD-A26B-6A904373A5F0}|SftpXmlTask.UIWinForm.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB3489A-DC38-43CD-A26B-6A904373A5F0}|SftpXmlTask.UIWinForm.csproj|c:\\users\\tobr\\.nuget\\packages\\httpclientfactory\\1.0.5\\contentfiles\\any\\netstandard2.0\\mit-license.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\UI\\SftpXmlTask.UIWinForm\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\UI\\SftpXmlTask.UIWinForm\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:57:18.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\UI\\SftpXmlTask.UIWinForm\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\UI\\SftpXmlTask.UIWinForm\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvzYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:37:24.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MIT-LICENSE.txt",
+              "DocumentMoniker": "C:\\Users\\tobr\\.nuget\\packages\\httpclientfactory\\1.0.5\\contentFiles\\any\\netstandard2.0\\MIT-LICENSE.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\.nuget\\packages\\httpclientfactory\\1.0.5\\contentFiles\\any\\netstandard2.0\\MIT-LICENSE.txt",
+              "ToolTip": "C:\\Users\\tobr\\.nuget\\packages\\httpclientfactory\\1.0.5\\contentFiles\\any\\netstandard2.0\\MIT-LICENSE.txt [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\.nuget\\packages\\httpclientfactory\\1.0.5\\contentFiles\\any\\netstandard2.0\\MIT-LICENSE.txt [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-13T12:21:51.884Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\UI\\SftpXmlTask.UIWinForm\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tobr\\Desktop\\New folder (2)\\TestSolution\\sftp-xml-task\\UI\\SftpXmlTask.UIWinForm\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:21:45.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

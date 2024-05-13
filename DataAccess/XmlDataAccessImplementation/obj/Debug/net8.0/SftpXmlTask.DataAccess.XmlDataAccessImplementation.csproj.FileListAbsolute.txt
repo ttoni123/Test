@@ -15,3 +15,4 @@ C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\XmlDa
 C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\XmlDataAccessImplementation\obj\Debug\net8.0\ref\SftpXmlTask.DataAccess.XmlDataAccessImplementation.dll
 C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\XmlDataAccessImplementation\bin\Debug\net8.0\SftpXmlTask.DTO.Models.dll
 C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\XmlDataAccessImplementation\bin\Debug\net8.0\SftpXmlTask.DTO.Models.pdb
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\DataAccess\XmlDataAccessImplementation\obj\Debug\net8.0\SftpXmlTask.DataAccess.XmlDataAccessImplementation.sourcelink.json

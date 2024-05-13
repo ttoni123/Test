@@ -28,10 +28,10 @@ namespace SftpXmlTask.Api.TaskApi.Controllers
 
         [HttpPost]
         [Route("[action]")]
-        public async Task<bool> ImportOrders()
+        public async Task<bool> ImportOrders(string path)
         {
             //We could add Check if the file is already processed, but i'll just use reference number in this case
-            var purchaseOrders = sftpService.GetData();
+            var purchaseOrders = sftpService.GetData(path);
 
             return await service.ProcessOrders(purchaseOrders);
         }

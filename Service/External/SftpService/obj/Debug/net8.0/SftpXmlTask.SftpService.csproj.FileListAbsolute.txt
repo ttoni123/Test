@@ -13,3 +13,4 @@ C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\External
 C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\External\SftpService\obj\Debug\net8.0\refint\SftpXmlTask.SftpService.dll
 C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\External\SftpService\obj\Debug\net8.0\SftpXmlTask.SftpService.pdb
 C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\External\SftpService\obj\Debug\net8.0\ref\SftpXmlTask.SftpService.dll
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\External\SftpService\obj\Debug\net8.0\SftpXmlTask.SftpService.sourcelink.json

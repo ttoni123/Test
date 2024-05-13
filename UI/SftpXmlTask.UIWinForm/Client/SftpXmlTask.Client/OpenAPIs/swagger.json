@@ -1,0 +1,183 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Toni test order processing application",
+    "description": "SftpXmlTask.Api.OrderProcessing v1.0.0.0",
+    "version": "v1"
+  },
+  "paths": {
+    "/OrderProcessing/ImportOrders": {
+      "post": {
+        "tags": [
+          "OrderProcessing"
+        ],
+        "parameters": [
+          {
+            "name": "path",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "boolean"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "boolean"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "boolean"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/OrderProcessing/ExportOrders": {
+      "post": {
+        "tags": [
+          "OrderProcessing"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "boolean"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "boolean"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "boolean"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/OrderProcessing/PurchaseOrders": {
+      "get": {
+        "tags": [
+          "OrderProcessing"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/SftpXmlTask.DTO.Models.PurchaseOrder"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/SftpXmlTask.DTO.Models.PurchaseOrder"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/SftpXmlTask.DTO.Models.PurchaseOrder"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "SftpXmlTask.DTO.Models.Customer": {
+        "type": "object",
+        "properties": {
+          "firstName": {
+            "type": "string"
+          },
+          "lastName": {
+            "type": "string"
+          },
+          "oib": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "SftpXmlTask.DTO.Models.Product": {
+        "type": "object",
+        "properties": {
+          "productName": {
+            "type": "string"
+          },
+          "quantity": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "price": {
+            "type": "number",
+            "format": "decimal"
+          }
+        },
+        "additionalProperties": false
+      },
+      "SftpXmlTask.DTO.Models.PurchaseOrder": {
+        "type": "object",
+        "properties": {
+          "purchaseOrderId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "customer": {
+            "allOf": [
+              {
+                "$ref": "#/components/schemas/SftpXmlTask.DTO.Models.Customer"
+              }
+            ]
+          },
+          "referenceNumber": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "product": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/SftpXmlTask.DTO.Models.Product"
+            }
+          },
+          "purchaseDate": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

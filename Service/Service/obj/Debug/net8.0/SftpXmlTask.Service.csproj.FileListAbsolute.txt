@@ -15,3 +15,4 @@ C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\Service\
 C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\Service\obj\Debug\net8.0\ref\SftpXmlTask.Service.dll
 C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\Service\bin\Debug\net8.0\SftpXmlTask.DTO.Models.dll
 C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\Service\bin\Debug\net8.0\SftpXmlTask.DTO.Models.pdb
+C:\Users\tobr\Desktop\New folder (2)\TestSolution\sftp-xml-task\Service\Service\obj\Debug\net8.0\SftpXmlTask.Service.sourcelink.json

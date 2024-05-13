@@ -80,7 +80,7 @@ namespace SftpXmlTask.SftpService
             return true;
         }
 
-        public List<PurchaseOrder> GetData()
+        public List<PurchaseOrder> GetData(string path)
         {
 
             XmlDocument doc = new XmlDocument();
@@ -93,7 +93,7 @@ namespace SftpXmlTask.SftpService
                     throw new Exception("Failed to connect to sftp");
                 }
 
-                doc.Load(sftp.OpenRead(_sftpConfiguration.FilePath));
+                doc.Load(sftp.OpenRead(path ?? _sftpConfiguration.FilePath));
 
                 sftp.Dispose();
             }

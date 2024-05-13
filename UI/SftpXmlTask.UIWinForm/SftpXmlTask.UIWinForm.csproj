@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HttpClientFactory" Version="1.0.5" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Models\SftpXmlTask.DTO.Models\SftpXmlTask.DTO.Models.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="SftpXmlTask.Api.OrderProcessing">
+      <HintPath>..\..\API\bin\Debug\net8.0\SftpXmlTask.Api.OrderProcessing.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
